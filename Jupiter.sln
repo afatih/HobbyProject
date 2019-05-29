@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter.UI", "Jupiter.UI\Jupiter.UI.csproj", "{2D5010DC-1652-4C51-9F83-F17F389EE232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter.DAL", "Jupiter.DAL\Jupiter.DAL.csproj", "{6E9BBEC9-35E3-4D3D-A737-88E03C3FE971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter.BLL", "Jupiter.BLL\Jupiter.BLL.csproj", "{71C390E9-0E55-4739-9CBB-27CB2F591DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter.DTO", "Jupiter.DTO\Jupiter.DTO.csproj", "{00CDFC64-9108-400B-B14C-6645D9A2964C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5010DC-1652-4C51-9F83-F17F389EE232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5010DC-1652-4C51-9F83-F17F389EE232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5010DC-1652-4C51-9F83-F17F389EE232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5010DC-1652-4C51-9F83-F17F389EE232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9BBEC9-35E3-4D3D-A737-88E03C3FE971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9BBEC9-35E3-4D3D-A737-88E03C3FE971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9BBEC9-35E3-4D3D-A737-88E03C3FE971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9BBEC9-35E3-4D3D-A737-88E03C3FE971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C390E9-0E55-4739-9CBB-27CB2F591DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C390E9-0E55-4739-9CBB-27CB2F591DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C390E9-0E55-4739-9CBB-27CB2F591DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C390E9-0E55-4739-9CBB-27CB2F591DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CDFC64-9108-400B-B14C-6645D9A2964C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CDFC64-9108-400B-B14C-6645D9A2964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CDFC64-9108-400B-B14C-6645D9A2964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CDFC64-9108-400B-B14C-6645D9A2964C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D3F88B-9023-4E01-B5EE-053F1A4F37E3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/jupiterprojesi
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Jupiter.UI\\Jupiter.UI.csproj
+		SccProjectName1 = Jupiter.UI
+		SccLocalPath1 = Jupiter.UI
+		SccProjectUniqueName2 = Jupiter.DAL\\Jupiter.DAL.csproj
+		SccProjectName2 = Jupiter.DAL
+		SccLocalPath2 = Jupiter.DAL
+		SccProjectUniqueName3 = Jupiter.BLL\\Jupiter.BLL.csproj
+		SccProjectName3 = Jupiter.BLL
+		SccLocalPath3 = Jupiter.BLL
+		SccProjectUniqueName4 = Jupiter.DTO\\Jupiter.DTO.csproj
+		SccProjectName4 = Jupiter.DTO
+		SccLocalPath4 = Jupiter.DTO
+	EndGlobalSection
+EndGlobal
